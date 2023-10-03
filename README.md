@@ -38,7 +38,7 @@ To get started with "Guess-the-number-with-voice-assistant" on your system, you'
 
 4. The voice assistant will recognize your guess and provide feedback, letting you know if your guess is too high or too low.
 
-5. Keep guessing until you correctly guess the number or decide to quit the game.
+5. You have ten chances to guess the correct number, so every round is a thrilling opportunity to prove your skills.
 
 6. Enjoy a unique and interactive gaming experience without the need for traditional keyboard inputs!
 
