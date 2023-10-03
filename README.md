@@ -1,6 +1,6 @@
 # Guess-the-number-with-voice-assistant
 
-Are you ready to challenge your guessing skills in a whole new way? "Guess-the-number-with-voice-assistant" is an interactive game that uses voice commands for an exciting and unique gaming experience. Say goodbye to traditional keyboard inputs and immerse yourself in the world of voice-assisted gaming!
+Are you ready to challenge your guessing skills in new way? "Guess-the-number-with-voice-assistant" is an interactive game that uses voice commands for an exciting and unique gaming experience. Say goodbye to traditional keyboard inputs and immerse yourself in the world of voice-assisted gaming!
 
 ## Table of Contents
 
